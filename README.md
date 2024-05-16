@@ -2,6 +2,7 @@
 # Burrows-Wheeler Transform (BWT) Compression and Decompression
 
 This repository contains the implementation of the Burrows-Wheeler Transform (BWT) compression and decompression algorithm along with Huffman coding and Move-to-Front (MTF) encoding for data compression. This README provides an overview of the functionality, usage, and structure of the code.
+
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ## Table of Contents
 1. [Introduction](#introduction)
