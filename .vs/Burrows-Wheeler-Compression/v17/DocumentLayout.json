@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\Study\\Algo\\Assignments\\burrows wheeler\\Burrows-Wheeler-Compression\\Burrows-Wheeler-Compression\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0620E5F-6C9F-4BC7-9601-7D556DED1525}|burrows\\Burrows-Wheeler-Compression.csproj|c:\\users\\pc\\desktop\\study\\algo\\assignments\\burrows wheeler\\burrows-wheeler-compression\\burrows-wheeler-compression\\burrows\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0620E5F-6C9F-4BC7-9601-7D556DED1525}|burrows\\Burrows-Wheeler-Compression.csproj|solutionrelative:burrows\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0620E5F-6C9F-4BC7-9601-7D556DED1525}|burrows\\burrows.csproj|C:\\Users\\PC\\Desktop\\Study\\Algo\\Assignments\\burrows wheeler\\Burrows-Wheeler-Compression\\Burrows-Wheeler-Compression\\burrows\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0620E5F-6C9F-4BC7-9601-7D556DED1525}|burrows\\burrows.csproj|solutionrelative:burrows\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Study\\Algo\\Assignments\\burrows wheeler\\Burrows-Wheeler-Compression\\Burrows-Wheeler-Compression\\burrows\\Program.cs",
+              "RelativeDocumentMoniker": "burrows\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Study\\Algo\\Assignments\\burrows wheeler\\Burrows-Wheeler-Compression\\Burrows-Wheeler-Compression\\burrows\\Program.cs",
+              "RelativeToolTip": "burrows\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T16:31:16.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Study\\Algo\\Assignments\\burrows wheeler\\Burrows-Wheeler-Compression\\Burrows-Wheeler-Compression\\burrows\\Program.cs",
+              "RelativeDocumentMoniker": "burrows\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Study\\Algo\\Assignments\\burrows wheeler\\Burrows-Wheeler-Compression\\Burrows-Wheeler-Compression\\burrows\\Program.cs",
+              "RelativeToolTip": "burrows\\Program.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAywD0AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T09:49:15.483Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

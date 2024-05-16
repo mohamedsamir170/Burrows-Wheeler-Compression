@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3NS169WF6YnLlX0R01X3ewkgijcv/a35Yf1i1kgHn1IqCGKzdwI3hRv1HBZwY51+OIjb/9YXk+M7h6tdlZa8UQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\Study\\Algo\\Assignments\\burrows wheeler\\Burrows-Wheeler-Compression\\Burrows-Wheeler-Compression\\burrows\\Burrows-Wheeler-Compression.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

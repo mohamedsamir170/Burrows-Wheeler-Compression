@@ -1,0 +1,17 @@
+C:\Users\PC\Desktop\Study\Algo\Assignments\burrows wheeler\Burrows-Wheeler-Compression\Burrows-Wheeler-Compression\burrows\bin\Debug\net8.0\Burrows-Wheeler-Compression.exe
+C:\Users\PC\Desktop\Study\Algo\Assignments\burrows wheeler\Burrows-Wheeler-Compression\Burrows-Wheeler-Compression\burrows\bin\Debug\net8.0\Burrows-Wheeler-Compression.deps.json
+C:\Users\PC\Desktop\Study\Algo\Assignments\burrows wheeler\Burrows-Wheeler-Compression\Burrows-Wheeler-Compression\burrows\bin\Debug\net8.0\Burrows-Wheeler-Compression.runtimeconfig.json
+C:\Users\PC\Desktop\Study\Algo\Assignments\burrows wheeler\Burrows-Wheeler-Compression\Burrows-Wheeler-Compression\burrows\bin\Debug\net8.0\Burrows-Wheeler-Compression.dll
+C:\Users\PC\Desktop\Study\Algo\Assignments\burrows wheeler\Burrows-Wheeler-Compression\Burrows-Wheeler-Compression\burrows\bin\Debug\net8.0\Burrows-Wheeler-Compression.pdb
+C:\Users\PC\Desktop\Study\Algo\Assignments\burrows wheeler\Burrows-Wheeler-Compression\Burrows-Wheeler-Compression\burrows\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\Study\Algo\Assignments\burrows wheeler\Burrows-Wheeler-Compression\Burrows-Wheeler-Compression\burrows\obj\Debug\net8.0\Burrows-Wheeler-Compression.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Study\Algo\Assignments\burrows wheeler\Burrows-Wheeler-Compression\Burrows-Wheeler-Compression\burrows\obj\Debug\net8.0\Burrows-Wheeler-Compression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Study\Algo\Assignments\burrows wheeler\Burrows-Wheeler-Compression\Burrows-Wheeler-Compression\burrows\obj\Debug\net8.0\Burrows-Wheeler-Compression.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Study\Algo\Assignments\burrows wheeler\Burrows-Wheeler-Compression\Burrows-Wheeler-Compression\burrows\obj\Debug\net8.0\Burrows-Wheeler-Compression.AssemblyInfo.cs
+C:\Users\PC\Desktop\Study\Algo\Assignments\burrows wheeler\Burrows-Wheeler-Compression\Burrows-Wheeler-Compression\burrows\obj\Debug\net8.0\Burrows-Wheeler-Compression.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Study\Algo\Assignments\burrows wheeler\Burrows-Wheeler-Compression\Burrows-Wheeler-Compression\burrows\obj\Debug\net8.0\Burrows-.347663A8.Up2Date
+C:\Users\PC\Desktop\Study\Algo\Assignments\burrows wheeler\Burrows-Wheeler-Compression\Burrows-Wheeler-Compression\burrows\obj\Debug\net8.0\Burrows-Wheeler-Compression.dll
+C:\Users\PC\Desktop\Study\Algo\Assignments\burrows wheeler\Burrows-Wheeler-Compression\Burrows-Wheeler-Compression\burrows\obj\Debug\net8.0\refint\Burrows-Wheeler-Compression.dll
+C:\Users\PC\Desktop\Study\Algo\Assignments\burrows wheeler\Burrows-Wheeler-Compression\Burrows-Wheeler-Compression\burrows\obj\Debug\net8.0\Burrows-Wheeler-Compression.pdb
+C:\Users\PC\Desktop\Study\Algo\Assignments\burrows wheeler\Burrows-Wheeler-Compression\Burrows-Wheeler-Compression\burrows\obj\Debug\net8.0\Burrows-Wheeler-Compression.genruntimeconfig.cache
+C:\Users\PC\Desktop\Study\Algo\Assignments\burrows wheeler\Burrows-Wheeler-Compression\Burrows-Wheeler-Compression\burrows\obj\Debug\net8.0\ref\Burrows-Wheeler-Compression.dll

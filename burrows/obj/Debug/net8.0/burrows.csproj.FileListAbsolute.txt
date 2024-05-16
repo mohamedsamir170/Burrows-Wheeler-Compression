@@ -1,0 +1,68 @@
+C:\Users\PC\Desktop\Study\Algo\burrows (v 1.8)\burrows\bin\Debug\net8.0\burrows.exe
+C:\Users\PC\Desktop\Study\Algo\burrows (v 1.8)\burrows\bin\Debug\net8.0\burrows.deps.json
+C:\Users\PC\Desktop\Study\Algo\burrows (v 1.8)\burrows\bin\Debug\net8.0\burrows.runtimeconfig.json
+C:\Users\PC\Desktop\Study\Algo\burrows (v 1.8)\burrows\bin\Debug\net8.0\burrows.dll
+C:\Users\PC\Desktop\Study\Algo\burrows (v 1.8)\burrows\bin\Debug\net8.0\burrows.pdb
+C:\Users\PC\Desktop\Study\Algo\burrows (v 1.8)\burrows\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\Study\Algo\burrows (v 1.8)\burrows\obj\Debug\net8.0\burrows.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Study\Algo\burrows (v 1.8)\burrows\obj\Debug\net8.0\burrows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Study\Algo\burrows (v 1.8)\burrows\obj\Debug\net8.0\burrows.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Study\Algo\burrows (v 1.8)\burrows\obj\Debug\net8.0\burrows.AssemblyInfo.cs
+C:\Users\PC\Desktop\Study\Algo\burrows (v 1.8)\burrows\obj\Debug\net8.0\burrows.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Study\Algo\burrows (v 1.8)\burrows\obj\Debug\net8.0\burrows.csproj.Up2Date
+C:\Users\PC\Desktop\Study\Algo\burrows (v 1.8)\burrows\obj\Debug\net8.0\burrows.dll
+C:\Users\PC\Desktop\Study\Algo\burrows (v 1.8)\burrows\obj\Debug\net8.0\refint\burrows.dll
+C:\Users\PC\Desktop\Study\Algo\burrows (v 1.8)\burrows\obj\Debug\net8.0\burrows.pdb
+C:\Users\PC\Desktop\Study\Algo\burrows (v 1.8)\burrows\obj\Debug\net8.0\burrows.genruntimeconfig.cache
+C:\Users\PC\Desktop\Study\Algo\burrows (v 1.8)\burrows\obj\Debug\net8.0\ref\burrows.dll
+C:\Users\mohab\Downloads\burrows (v 1.9)\burrows\bin\Debug\net8.0\burrows.exe
+C:\Users\mohab\Downloads\burrows (v 1.9)\burrows\bin\Debug\net8.0\burrows.deps.json
+C:\Users\mohab\Downloads\burrows (v 1.9)\burrows\bin\Debug\net8.0\burrows.runtimeconfig.json
+C:\Users\mohab\Downloads\burrows (v 1.9)\burrows\bin\Debug\net8.0\burrows.dll
+C:\Users\mohab\Downloads\burrows (v 1.9)\burrows\bin\Debug\net8.0\burrows.pdb
+C:\Users\mohab\Downloads\burrows (v 1.9)\burrows\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\mohab\Downloads\burrows (v 1.9)\burrows\obj\Debug\net8.0\burrows.csproj.AssemblyReference.cache
+C:\Users\mohab\Downloads\burrows (v 1.9)\burrows\obj\Debug\net8.0\burrows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohab\Downloads\burrows (v 1.9)\burrows\obj\Debug\net8.0\burrows.AssemblyInfoInputs.cache
+C:\Users\mohab\Downloads\burrows (v 1.9)\burrows\obj\Debug\net8.0\burrows.AssemblyInfo.cs
+C:\Users\mohab\Downloads\burrows (v 1.9)\burrows\obj\Debug\net8.0\burrows.csproj.CoreCompileInputs.cache
+C:\Users\mohab\Downloads\burrows (v 1.9)\burrows\obj\Debug\net8.0\burrows.csproj.Up2Date
+C:\Users\mohab\Downloads\burrows (v 1.9)\burrows\obj\Debug\net8.0\burrows.dll
+C:\Users\mohab\Downloads\burrows (v 1.9)\burrows\obj\Debug\net8.0\refint\burrows.dll
+C:\Users\mohab\Downloads\burrows (v 1.9)\burrows\obj\Debug\net8.0\burrows.pdb
+C:\Users\mohab\Downloads\burrows (v 1.9)\burrows\obj\Debug\net8.0\burrows.genruntimeconfig.cache
+C:\Users\mohab\Downloads\burrows (v 1.9)\burrows\obj\Debug\net8.0\ref\burrows.dll
+C:\Users\mohab\OneDrive\Desktop\T#83\burrows\burrows\bin\Debug\net8.0\burrows.exe
+C:\Users\mohab\OneDrive\Desktop\T#83\burrows\burrows\bin\Debug\net8.0\burrows.deps.json
+C:\Users\mohab\OneDrive\Desktop\T#83\burrows\burrows\bin\Debug\net8.0\burrows.runtimeconfig.json
+C:\Users\mohab\OneDrive\Desktop\T#83\burrows\burrows\bin\Debug\net8.0\burrows.dll
+C:\Users\mohab\OneDrive\Desktop\T#83\burrows\burrows\bin\Debug\net8.0\burrows.pdb
+C:\Users\mohab\OneDrive\Desktop\T#83\burrows\burrows\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\mohab\OneDrive\Desktop\T#83\burrows\burrows\obj\Debug\net8.0\burrows.csproj.AssemblyReference.cache
+C:\Users\mohab\OneDrive\Desktop\T#83\burrows\burrows\obj\Debug\net8.0\burrows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohab\OneDrive\Desktop\T#83\burrows\burrows\obj\Debug\net8.0\burrows.AssemblyInfoInputs.cache
+C:\Users\mohab\OneDrive\Desktop\T#83\burrows\burrows\obj\Debug\net8.0\burrows.AssemblyInfo.cs
+C:\Users\mohab\OneDrive\Desktop\T#83\burrows\burrows\obj\Debug\net8.0\burrows.csproj.CoreCompileInputs.cache
+C:\Users\mohab\OneDrive\Desktop\T#83\burrows\burrows\obj\Debug\net8.0\burrows.csproj.Up2Date
+C:\Users\mohab\OneDrive\Desktop\T#83\burrows\burrows\obj\Debug\net8.0\burrows.dll
+C:\Users\mohab\OneDrive\Desktop\T#83\burrows\burrows\obj\Debug\net8.0\refint\burrows.dll
+C:\Users\mohab\OneDrive\Desktop\T#83\burrows\burrows\obj\Debug\net8.0\burrows.pdb
+C:\Users\mohab\OneDrive\Desktop\T#83\burrows\burrows\obj\Debug\net8.0\burrows.genruntimeconfig.cache
+C:\Users\mohab\OneDrive\Desktop\T#83\burrows\burrows\obj\Debug\net8.0\ref\burrows.dll
+C:\Users\PC\Desktop\Study\Algo\Assignments\burrows wheeler\83\burrows\burrows\bin\Debug\net8.0\burrows.exe
+C:\Users\PC\Desktop\Study\Algo\Assignments\burrows wheeler\83\burrows\burrows\bin\Debug\net8.0\burrows.deps.json
+C:\Users\PC\Desktop\Study\Algo\Assignments\burrows wheeler\83\burrows\burrows\bin\Debug\net8.0\burrows.runtimeconfig.json
+C:\Users\PC\Desktop\Study\Algo\Assignments\burrows wheeler\83\burrows\burrows\bin\Debug\net8.0\burrows.dll
+C:\Users\PC\Desktop\Study\Algo\Assignments\burrows wheeler\83\burrows\burrows\bin\Debug\net8.0\burrows.pdb
+C:\Users\PC\Desktop\Study\Algo\Assignments\burrows wheeler\83\burrows\burrows\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\Study\Algo\Assignments\burrows wheeler\83\burrows\burrows\obj\Debug\net8.0\burrows.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Study\Algo\Assignments\burrows wheeler\83\burrows\burrows\obj\Debug\net8.0\burrows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Study\Algo\Assignments\burrows wheeler\83\burrows\burrows\obj\Debug\net8.0\burrows.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Study\Algo\Assignments\burrows wheeler\83\burrows\burrows\obj\Debug\net8.0\burrows.AssemblyInfo.cs
+C:\Users\PC\Desktop\Study\Algo\Assignments\burrows wheeler\83\burrows\burrows\obj\Debug\net8.0\burrows.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Study\Algo\Assignments\burrows wheeler\83\burrows\burrows\obj\Debug\net8.0\burrows.csproj.Up2Date
+C:\Users\PC\Desktop\Study\Algo\Assignments\burrows wheeler\83\burrows\burrows\obj\Debug\net8.0\burrows.dll
+C:\Users\PC\Desktop\Study\Algo\Assignments\burrows wheeler\83\burrows\burrows\obj\Debug\net8.0\refint\burrows.dll
+C:\Users\PC\Desktop\Study\Algo\Assignments\burrows wheeler\83\burrows\burrows\obj\Debug\net8.0\burrows.pdb
+C:\Users\PC\Desktop\Study\Algo\Assignments\burrows wheeler\83\burrows\burrows\obj\Debug\net8.0\burrows.genruntimeconfig.cache
+C:\Users\PC\Desktop\Study\Algo\Assignments\burrows wheeler\83\burrows\burrows\obj\Debug\net8.0\ref\burrows.dll
